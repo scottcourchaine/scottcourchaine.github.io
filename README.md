@@ -25,7 +25,9 @@ Syntax highlighted code block
 
 [Link](url) and ![Image](src)
 ```
-Code Review for CS 499 - Capstone: https://youtu.be/9PJKMqHgjU0
+Code Review for CS 499 - Capstone: 
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9PJKMqHgjU0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
