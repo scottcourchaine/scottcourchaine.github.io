@@ -3,6 +3,7 @@ Code Review for CS 499 - Capstone:
 
 <br>Capstone Enhancement - Software Engineering and Design:
  <br> <a href="CS 499 - Capstone Enhancement Part 1/FinalProject.cpp">Check out my Capstone Enhancement with OpenGL Code</a>
+ <br> <a href="Front of Chair.PNG">Check out the Front Angle of the Output</a>
  <br> <a href="CS 499 - Milestone Two Narrative.docx">Check out my Narrative for this Enhancement</a>
 
 Capstone Enhancement - Data Structures and Algorithms:
