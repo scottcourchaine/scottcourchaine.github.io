@@ -17,3 +17,4 @@ Capstone Enhancement - Databases:
  <br> <a href="db1_allFunctions.py">Check out the Code to Database 1 of my Project</a>
  <br> <a href="db2_allFunctions.py">Check out the Code to Database 2 of my Project</a>
  <br> <a href="market_allFunctions.py">Check out the Code to the Market Database of my Project</a>
+ <br> <a href="CS 499 - Capstone Enhancement Narrative - Databases.docx">Check out my Narrative for this Enhancement</a>
