@@ -5,6 +5,6 @@ Code Review for CS 499 - Capstone:
  <br> <a href="CS 499 - Capstone Enhancement Part 1/FinalProject.cpp">Check out my Capstone Enhancement with OpenGL Code</a>
  <br> <a href="CS 499 - Milestone Two Narrative.docx">Check out my Narrative for my OpenGL code
 
-<br>Capstone Enhancement - Data Structures and Algorithms:
+Capstone Enhancement - Data Structures and Algorithms:
  <br> <a href="CS 340 - Final Project.docx">Check out my Data Manipulation in MongoDB</a>
  <br> <a href="CS 499 - Capstone Enhancement - Data Structure and Algorithms.docx">Check out my Capstone Enhancement in MongoDB</a>
