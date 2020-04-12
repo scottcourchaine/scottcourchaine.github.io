@@ -3,7 +3,7 @@
 <h3>Code Review for CS 499 - Capstone:</h3>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/9PJKMqHgjU0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-<br><h3>Capstone Enhancement - Software Engineering and Design:</h3>
+<h3><br>Capstone Enhancement - Software Engineering and Design:</h3>
  <br> <a href="CS 499 - Milestone Two Narrative.docx">Check out my Narrative for this Enhancement</a>
  <br> <a href="CS 499 - Capstone Enhancement Part 1/FinalProject.cpp">Check out my Capstone Enhancement with OpenGL Code</a>
  <br> <a href="Front of Chair.PNG">Check out the Front View of the Output</a>
