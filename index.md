@@ -3,7 +3,7 @@
 <h3><br>Professional Self-Assessment:</h3>
  <a href="CS 499 - Capstone Self-Assessment.docx">Check out my Self-Assessment</a>
 
-<h3><br>Code Review for CS 499 - Capstone:</h3>
+<h3>Code Review for CS 499 - Capstone:</h3>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/9PJKMqHgjU0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 <h3><br>Capstone Enhancement - Software Engineering and Design:</h3>
