@@ -1,4 +1,4 @@
-<h1 style="text-align:center;"><span style="color:yellow">SNHU Capstone Work</span></h1>
+<h1 style="text-align:center;"><span style="color:#ffcc00">SNHU Capstone Work</span></h1>
 
 <h3><br>Professional Self-Assessment:</h3>
  <ul>
