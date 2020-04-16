@@ -1,7 +1,9 @@
 <h1 style="text-align:center;">SNHU Capstone Work</h1>
 
 <h3><br>Professional Self-Assessment:</h3>
- <a href="CS 499 - Capstone Self-Assessment.docx">Check out my Self-Assessment</a>
+ <ul>
+ <a href="CS 499 - Capstone Self-Assessment.docx"><li>Check out my Self-Assessment</li></a>
+ </ul>
 
 <h3>Code Review for CS 499 - Capstone:</h3>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/9PJKMqHgjU0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
