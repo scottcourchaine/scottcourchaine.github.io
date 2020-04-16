@@ -1,7 +1,7 @@
 <h1 style="text-align:center;">SNHU Capstone Work</h1>
 
 <h3><br>Professional Self-Assessment:</h3>
- <ul>
+ <ul type="disc">
  <a href="CS 499 - Capstone Self-Assessment.docx"><li>Check out my Self-Assessment</li></a>
  </ul>
 
