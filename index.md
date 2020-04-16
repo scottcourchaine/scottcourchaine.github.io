@@ -13,6 +13,7 @@
  <a href="CS 499 - Milestone Two Narrative.docx"><li>Check out my Narrative for this Enhancement</li></a>
  <a href="CS 499 - Capstone Enhancement Part 1/FinalProject.cpp"><li>Check out my Capstone Enhancement with OpenGL Code</li></a>
  <a href="Front of Chair.PNG"><li>Check out the Front View of the Output</li></a>
+ <img src="Front of Chair.PNG" alt="Front of Table and Chair">
  <a href="Back of Chair.PNG"><li>Check out the Rear View of the Output</li></a>
  </ul>
 
