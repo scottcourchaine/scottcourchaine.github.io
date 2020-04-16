@@ -10,7 +10,6 @@
  <a href="CS 499 - Milestone Two Narrative.docx">Check out my Narrative for this Enhancement</a>
  <br> <a href="CS 499 - Capstone Enhancement Part 1/FinalProject.cpp">Check out my Capstone Enhancement with OpenGL Code</a>
  <br> <a href="Front of Chair.PNG">Check out the Front View of the Output</a>
- <img src=""Front of Chair.PNG" alt="Front of Chair Output"/>
  <br> <a href="Back of Chair.PNG">Check out the Rear View of the Output</a>
 
 <h3>Capstone Enhancement - Data Structures and Algorithms:</h3>
