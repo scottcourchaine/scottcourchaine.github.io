@@ -11,9 +11,9 @@
 <h3><br>Capstone Enhancement - Software Engineering and Design:</h3>
  <ul>
  <a href="CS 499 - Milestone Two Narrative.docx"><li>Check out my Narrative for this Enhancement</li></a>
- <br> <a href="CS 499 - Capstone Enhancement Part 1/FinalProject.cpp"><li>Check out my Capstone Enhancement with OpenGL Code</li></a>
- <br> <a href="Front of Chair.PNG"><li>Check out the Front View of the Output</li></a>
- <br> <a href="Back of Chair.PNG"><li>Check out the Rear View of the Output</li></a>
+ <a href="CS 499 - Capstone Enhancement Part 1/FinalProject.cpp"><li>Check out my Capstone Enhancement with OpenGL Code</li></a>
+ <a href="Front of Chair.PNG"><li>Check out the Front View of the Output</li></a>
+ <a href="Back of Chair.PNG"><li>Check out the Rear View of the Output</li></a>
  </ul>
 
 <h3>Capstone Enhancement - Data Structures and Algorithms:</h3>
@@ -26,8 +26,8 @@
 <h3>Capstone Enhancement - Databases:</h3>
  <ul>
  <a href="CS 499 - Capstone Enhancement Narrative - Databases.docx"><li>Check out my Narrative for this Enhancement</li></a>
- <br> <a href="loginV2.py"><li>Check out the Login Code of my Project</li></a>
- <br> <a href="db1_allFunctions.py"><li>Check out the Code to Database 1 of my Project</li></a>
- <br> <a href="db2_allFunctions.py"><li>Check out the Code to Database 2 of my Project</li></a>
- <br> <a href="market_allFunctions.py"><li>Check out the Code to the Market Database of my Project</li></a>
+ <a href="loginV2.py"><li>Check out the Login Code of my Project</li></a>
+ <a href="db1_allFunctions.py"><li>Check out the Code to Database 1 of my Project</li></a>
+ <a href="db2_allFunctions.py"><li>Check out the Code to Database 2 of my Project</li></a>
+ <a href="market_allFunctions.py"><li>Check out the Code to the Market Database of my Project</li></a>
  </ul>
