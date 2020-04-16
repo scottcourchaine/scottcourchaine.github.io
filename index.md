@@ -19,8 +19,8 @@
 <h3>Capstone Enhancement - Data Structures and Algorithms:</h3>
  <ul>
  <a href="CS 499 - Milestone Three Narrative.docx"><li>Check out my Narrative for this Enhancement</li></a>
- <br> <a href="CS 340 - Final Project.docx"><li>Check out my Navigation Through MongoDB</li></a>
- <br> <a href="CS 499 - Capstone Enhancement - Data Structure and Algorithms.docx"><li>Check out my Capstone Enhancement in MongoDB</li></a>
+ <a href="CS 340 - Final Project.docx"><li>Check out my Navigation Through MongoDB</li></a>
+ <a href="CS 499 - Capstone Enhancement - Data Structure and Algorithms.docx"><li>Check out my Capstone Enhancement in MongoDB</li></a>
  </ul>
 
 <h3>Capstone Enhancement - Databases:</h3>
