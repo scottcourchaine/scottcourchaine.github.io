@@ -8,7 +8,7 @@
 <h3>Code Review for CS 499 - Capstone:</h3>
 <p style="margin-left: 40px"><iframe width="560" height="315" src="https://www.youtube.com/embed/9PJKMqHgjU0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p>
 
-<h3><br>Capstone Enhancement - Software Engineering and Design:</h3>
+<h3>Capstone Enhancement - Software Engineering and Design:</h3>
  <ul>
  <a href="CS 499 - Milestone Two Narrative.docx"><li>Check out my Narrative for this Enhancement</li></a>
  <a href="CS 499 - Capstone Enhancement Part 1/FinalProject.cpp"><li>Check out my Capstone Enhancement with OpenGL Code</li></a>
