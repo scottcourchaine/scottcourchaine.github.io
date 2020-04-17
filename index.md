@@ -13,9 +13,9 @@
  <a href="CS 499 - Milestone Two Narrative.docx"><li>Check out my Narrative for this Enhancement</li></a>
  <a href="CS 499 - Capstone Enhancement Part 1/FinalProject.cpp"><li>Check out my Capstone Enhancement with OpenGL Code</li></a>
  <a href="Front of Chair.PNG"><li>Check out the Front View of the Output:</li></a>
- <br><img src="Front of Chair.PNG" alt="Front of Table and Chair" style="width:560px;height:315px;">
+ <br><img src="Front of Chair.PNG" alt="Front of Table and Chair" style="width:560px;height:560px;">
  <br><br><a href="Back of Chair.PNG"><li>Check out the Rear View of the Output:</li></a>
- <br><img src="Back of Chair.PNG" alt="Back of Table and Chair" style="width:560px;height:315px;">
+ <br><img src="Back of Chair.PNG" alt="Back of Table and Chair" style="width:560px;height:560px;">
  </ul>
 
 <h3>Capstone Enhancement - Data Structures and Algorithms:</h3>
