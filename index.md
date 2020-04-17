@@ -1,4 +1,4 @@
-<h1 style="text-align:center;"><span style="color:#b6b6b6"><abbr title="Southern New Hampshire University">SNHU</abbr> Capstone Work</span></h1>
+<h1 style="text-align:center;"><span style="color:#b6b6b6">SNHU Capstone Work</span></h1>
 
 <h3><br>Professional Self-Assessment:</h3>
  <ul>
