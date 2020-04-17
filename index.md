@@ -14,8 +14,7 @@
  <a href="CS 499 - Capstone Enhancement Part 1/FinalProject.cpp"><li>Check out my Capstone Enhancement with OpenGL Code</li></a>
  <a href="Front of Chair.PNG"><li>Check out the Front View of the Output:</li></a>
  <br><img src="Front of Chair.PNG" alt="Front of Table and Chair">
- <br><a href="Back of Chair.PNG"><li>Check out the Rear View of the Output:</li></a>
- <br>
+ <br><br><a href="Back of Chair.PNG"><li>Check out the Rear View of the Output:</li></a>
  <br><img src="Back of Chair.PNG" alt="Back of Table and Chair">
  </ul>
 
