@@ -5,9 +5,13 @@ from market_allFunctions import market_insert_all, market_read_all, market_read_
 
 def readUserInfo():
   #prompt user to enter user info
+  #initializes name variable with a large array to prevent overflow
+  name = "\0" * 100 
   name = raw_input("Enter username: ")
 
   #prompt user to enter password and quit program if incorrect
+  #initializes password variable with a large array to prevent overflow
+  password = "\0" * 100
   password = raw_input("Enter password: ")
 
   #matches user info to the password
